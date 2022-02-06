@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Strangers_Things/static/css/main.f6d0f8eb.css",
+    "main.js": "/Strangers_Things/static/js/main.650cf353.js",
+    "static/js/787.4a7206dc.chunk.js": "/Strangers_Things/static/js/787.4a7206dc.chunk.js",
+    "index.html": "/Strangers_Things/index.html",
+    "main.f6d0f8eb.css.map": "/Strangers_Things/static/css/main.f6d0f8eb.css.map",
+    "main.650cf353.js.map": "/Strangers_Things/static/js/main.650cf353.js.map",
+    "787.4a7206dc.chunk.js.map": "/Strangers_Things/static/js/787.4a7206dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d0f8eb.css",
+    "static/js/main.650cf353.js"
+  ]
+}
