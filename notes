@@ -1,0 +1,12 @@
+
+- deliver is set properly when the user edits their post
+- [done]profile shows the posts the user posted
+- [done]shows the messages sent by me and to me in the home routes
+    - need to see if i can receive messages
+- [done]edit and delete button working 
+- [no need]add back buttons and redirect users 
+- [done] be able to message others
+- UI design improve
+- redirect your user to login once registered
+
+problem:

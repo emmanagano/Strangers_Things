@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Oswald&display=swap");
+
+.form__container {
+  margin: 1rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__container h2 {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 2.5rem;
+  color: #da244b;
+  align-content: flex-start;
+}
+
+.form__main input {
+  height: 2rem;
+  margin: 1rem;
+  box-shadow: 5px 5px 5px #24dab3;
+  border: #da244b solid 2px;
+}
+
+.form__container a {
+  background-color: #da244b;
+  margin: 1rem;
+  padding: 0.7rem;
+  text-align: center;
+  color: white;
+  box-shadow: 5px 5px 5px #24dab3;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.post__section {
+  border: #da244b solid 2px;
+  margin: 1rem;
+  padding: 0.5rem;
+  box-shadow: 10px 5px 5px lightgray;
+}
+
+.post__section h2 {
+  padding-bottom: 0.5rem;
+  text-align: center;
+  border-bottom: #24dab3 solid 2px;
+  font-family: "Oswald";
+}
+
+.post__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: "Merriweather";
+}
+
+.post__content p span {
+  font-weight: bold;
+  border-bottom: #da244b solid 1px;
+}
+
+.send-message__container {
+  width: 100%;
+}
+
+.message-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem;
+  margin: 1rem;
+  border-radius: 50%;
+  background-color: #da244b;
+  color: white;
+  font-size: 2rem;
+  border: solid #24dab3 1px;
+  box-shadow: 5px 5px 5px #24dab3;
+}
+
+.message__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: #24dab3 solid 2px;
+  /* margin: 2rem 0; */
+}
+
+.message__container input {
+  height: 3rem;
+  width: 20rem;
+  margin: 1rem 0;
+  border: #da244b solid 1px;
+}
+
+.reply-button {
+  background-color: white;
+  color: #da244b;
+  font-size: 2.5rem;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-message__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-message__container h3 {
+  color: #da244b;
+}
+
+.message-button a svg {
+  text-decoration: none;
+  color: white;
+}
+
+.view-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.view-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-family: "Oswald";
+  margin: 0.5rem;
+  padding: 1.5rem;
+  color: #da244b;
+  text-decoration: none;
+  border-top: #24dab3 solid 2px;
+}
